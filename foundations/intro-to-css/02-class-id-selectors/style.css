@@ -1,0 +1,19 @@
+.caca{
+    background-color: #f88f9f;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.prout{
+    font-size: 24px;
+}
+
+#two{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#four{
+    background-color: rgb(139, 238, 139);
+    font-size: 24px;
+    font-weight: bold;
+}
